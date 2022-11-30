@@ -1,0 +1,17 @@
+.HeadContainer{
+    display: flex;
+    justify-content: center;
+}
+.subcontainer{  
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 80%;
+height: 10rem;
+background-color: whitesmoke;
+border-radius: 10px;
+}
+.div4{
+    display: flex;
+    align-items: center;
+}
